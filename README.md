@@ -8,6 +8,8 @@ A Simple Website to Play Rock Paper Scissors with the Computer written in HTML, 
 
 # Screenshot
 ![](Screenshot.png)
+<img src="screenshots.gif">
+
 
 # TODO
 1. Add this to a main caller website. 
