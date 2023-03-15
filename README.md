@@ -5,6 +5,7 @@ A Simple Website to Play Rock Paper Scissors with the Computer written in HTML, 
 1. Clone the Repository
 2. Open the `index.html` file in your browser
 3. Play the Game
+4. Or just head over to [Its Deployed Website!](rock_paper_scissors.surge.sh)
 
 # Screenshot
 ![](Screenshot.png)
